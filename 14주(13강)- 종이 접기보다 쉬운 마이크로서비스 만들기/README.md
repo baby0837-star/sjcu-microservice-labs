@@ -1,6 +1,6 @@
 # 예제 - 음식배달
 
-<img width="1254" height="1254" alt="Image" src="https://github.com/user-attachments/assets/fa080a6d-0541-47ad-b013-a6bbe72a7e9d" />
+<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/fa080a6d-0541-47ad-b013-a6bbe72a7e9d" />
 
 본 예제는 마이크로서비스응용및활용 과목의 기말고사 대체용으로 마이크로서비스를 직접 구현하고 쿠버네티스에 배포/운영한 결과 리포트 작성을 위한 가이드입니다.
 
